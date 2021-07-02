@@ -51,3 +51,15 @@ body {
     padding: 1rem 2rem;
     margin: 0.5rem;
 }
+
+.toast.info {
+    color: #000;
+}
+
+.toast.success {
+    color: rgb(17, 202, 0);
+}
+
+.toast.error {
+    color: rgb(250, 7, 43);
+}
